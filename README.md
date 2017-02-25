@@ -1,4 +1,4 @@
-# Async local storage for Angular
+# Ring Chart for Angular
 
 Simple module to create customisable ring chart
 

@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.3 (2017-02-25)
+
+- Correcting README.md
+
 ## 1.1.0 (2017-02-25)
 
 ### Bug fixes
