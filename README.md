@@ -50,25 +50,12 @@ System.config({
 
 ## API
 
-
-
-
-## Browser support
-
-[All browsers supporting IndexedDB](http://caniuse.com/#feat=indexeddb), ie. all current browsers :
-Firefox, Chrome, Opera, Safari, Edge and IE10+.
-
-IE8/9 are supported but use native localStorage as a fallback, 
-so internal operations are synchronous (the public API remains asynchronous-like).
-
-Older or special browsers (like Opera Mini) not supporting IndexedDB and localStorage 
-use a fake storage, so the data won't be persistent but the module won't crash.
-
-This module is not impacted by IE/Edge missing IndexedDB features.
-
-This module has not been tested against Safari 8/9 buggy IndexedDB implementation,
-but it uses very basic features of IndexedDB so it may be fine. Otherwise,
-use the [IndexedDBshim polyfill](https://github.com/axemclion/IndexedDBShim).
+The following is the list of variables that you can override :
+  * **label**:            'label Name'         
+  * **value**:            default: 0
+  * **step**:             default: 3
+  * **color**:            default: "#F13502"
+  * **tooltip**:          default: true
 
 ## AoT and Universal support
 
@@ -77,7 +64,7 @@ and [Universal server-side rendering](https://github.com/angular/universal).
 
 ## Changelog
 
-
+[Changelog available here](https://github.com/musecz/ng2-ring-chart/blob/master/CHANGELOG.md).
 
 ## Roadmap
 

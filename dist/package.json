@@ -1,6 +1,6 @@
 {
   "name": "ng2-ring-chart",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A simple way to make a ring chart",
   "main": "bundles/ringChart.umd.js",
   "module": "index.js",
@@ -10,8 +10,16 @@
     "angular2",
     "angular 2"
   ],
-  "author": "Your name",
+  "author": "vincent Schneider",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/musecz/ng2-ring-chart.git"
+  },
+  "homepage": "https://github.com/musecz/ng2-ring-chart",
+  "bugs": {
+    "url": "https://github.com/musecz/ng2-ring-chart.git/issues"
+  },
   "peerDependencies": {
     "@angular/common": "^2.4.8",
     "@angular/core": "^2.4.8",
