@@ -1,0 +1,22 @@
+{
+  "name": "ng2-ring-chart",
+  "version": "1.1.0",
+  "description": "A simple way to make a ring chart",
+  "main": "bundles/ringChart.umd.js",
+  "module": "index.js",
+  "typings": "index.d.ts",
+  "keywords": [
+    "angular",
+    "angular2",
+    "angular 2"
+  ],
+  "author": "Your name",
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/common": "^2.4.8",
+    "@angular/core": "^2.4.8",
+    "reflect-metadata": "^0.1.8",
+    "rxjs": "^5.2.0",
+    "zone.js": "^0.7.2"
+  }
+}
