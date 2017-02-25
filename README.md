@@ -1,6 +1,11 @@
 # Async local storage for Angular
 
-Simple module to create ring chart with the possibility to define step.
+Simple module to create customisable ring chart
+
+<a href="https://github.com/musecz/ng2-ring-chart">
+  <img src="http://i.imgur.com/0e2Sxyt.png" width="60%" style="border:1px solid grey" />
+</a>
+
 
 ## Getting started
 
